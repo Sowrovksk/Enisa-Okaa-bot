@@ -19,13 +19,13 @@ module.exports.run = async function ({ api, event }) {
 ╔═════════════════════ ✿
 ║ ✨ 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ✨
 ╠═════════════════════ ✿
-║ 👑 𝗡𝗮𝗺𝗲 : 𝗦𝗛𝗔𝗛𝗔𝗗𝗔𝗧 𝗦𝗔𝗛𝗨
-║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 : 𝗦𝗔𝗛𝗨
+║ 👑 𝗡𝗮𝗺𝗲 : ༄𓆩𝐄𝐧𝐢𝐬𝐚𓆪᭄ ♡ ༄𓆩𝐒𝐚𝐲𝐚𝐧𓆪᭄
+║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 :𓆩𝐒𝐚𝐲𝐚𝐧𓆪
 ║ 🎂 𝗔𝗴𝗲 : 𝟭𝟴+
 ║ 💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻 : 𝗦𝗶𝗻𝗴𝗹𝗲
 ║ 🎓 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻 : 𝗦𝘁𝘂𝗱𝗲𝗻𝘁
 ║ 📚 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 : 𝗛𝗦𝗖
-║ 🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : 𝗞𝗵𝗮𝗴𝗿𝗮𝗰𝗵𝗮𝗿𝗶
+║ 🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : Thakurgaon
 ╠═════════════════════ ✿
 ║ 🔗 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ╠═════════════════════ ✿
@@ -41,8 +41,8 @@ module.exports.run = async function ({ api, event }) {
 `;
 
   const images = [
-    "https://i.imgur.com/gokzyKd.jpeg",
-    "https://i.imgur.com/g3hlQ0Z.jpeg",
+    "https://i.imgur.com/JSPgbZ4.jpeg",
+    "https://i.imgur.com/JSPgbZ4.jpeg",
     "https://i.imgur.com/L7txp4M.jpeg",
     "https://i.imgur.com/5dG8PS5.jpeg"
   ];
