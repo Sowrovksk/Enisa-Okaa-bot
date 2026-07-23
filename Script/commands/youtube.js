@@ -8,7 +8,7 @@ const baseApiUrl = async () => {
 
 module.exports = {
   config: {
-    name: "youtube",
+    name: "yt",
     version: "1.1.4",
     credits: "dipto", //fixed by Ullash 
     countDown: 5,
